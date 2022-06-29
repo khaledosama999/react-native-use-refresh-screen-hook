@@ -1,6 +1,6 @@
 {
   "name": "react-native-refresh-screen-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/khaledosama999/react-native-use-refresh-screen-hook",
   "main": "lib/index.js",
